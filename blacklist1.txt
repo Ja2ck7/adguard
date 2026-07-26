@@ -640029,6 +640029,7 @@
 ||bilchbenzo.net^
 ||bilcoreteknoloji.com^
 ||bilcypu.info^
+||bild.de^
 ||bild-id.com^
 ||bild.de.intellitxt.com^
 ||bild.de.ssl.sc.omtrdc.net^
