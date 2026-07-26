@@ -1,6 +1,7 @@
 @@||www.byd.com^
 @@||schalke04.de^
 @@||zdfheute.de^
+@@||hotel-speyerer-hof.de^
 ! ===== Lieferando =====
 @@||rest.api.eu-central-1.production.jet-external.com^
 @@||globalmenucdn.eu-central-1.production.jet-external.com^
