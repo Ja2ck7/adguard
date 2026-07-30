@@ -6,3 +6,6 @@
 @@||rest.api.eu-central-1.production.jet-external.com^
 @@||globalmenucdn.eu-central-1.production.jet-external.com^
 @@||tibber.com^
+@@||www.google.com^
+@@||graph.facebook.com^
+@@||dilinkappoversea-eu.byd.auto^
