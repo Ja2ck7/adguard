@@ -7,5 +7,16 @@
 @@||globalmenucdn.eu-central-1.production.jet-external.com^
 @@||tibber.com^
 @@||www.google.com^
+! ===== Facebook =====
 @@||graph.facebook.com^
+! ===== BYD =====
 @@||dilinkappoversea-eu.byd.auto^
+! ===== Smartphone Game =====
+@@||social-server.prod.royalmatch.drmgms.com^
+! ===== Ninja =====
+@@ninjatestkitchen.eu^
+@@sharkninja.de^
+! ===== Alexa =====
+@@||avs-alexa-*.amazon.com^
+@@||kinesis.eu-west-1.amazonaws.com^
+@@||alexa.amazon.de^
