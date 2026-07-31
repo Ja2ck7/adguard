@@ -14,8 +14,8 @@
 ! ===== Smartphone Game =====
 @@||social-server.prod.royalmatch.drmgms.com^
 ! ===== Ninja =====
-@@ninjatestkitchen.eu^
-@@sharkninja.de^
+@@||ninjatestkitchen.eu^
+@@||sharkninja.de^
 ! ===== Alexa =====
 @@||avs-alexa-*.amazon.com^
 @@||kinesis.eu-west-1.amazonaws.com^
