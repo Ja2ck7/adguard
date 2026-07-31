@@ -9,7 +9,7 @@
 ! ===== Facebook =====
 @@||graph.facebook.com^
 ! ===== BYD =====
-@@||www.byd.com^
+@@||byd.com^
 @@||dilinkappoversea-eu.byd.auto^
 ! ===== Smartphone Game =====
 @@||social-server.prod.royalmatch.drmgms.com^
