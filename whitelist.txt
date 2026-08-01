@@ -21,3 +21,9 @@
 @@||kinesis.eu-west-1.amazonaws.com^
 @@||alexa.amazon.de^
 @@||bob-dispatch-prod-eu.amazon.com^
+! ===== Regenradar =====
+@@||imn-rust-lb.infoplaza.io^
+! ===== Instagram =====
+@@||scontent-fra5-2.cdninstagram.com^
+! ===== DHL =====
+@@||login.dhl.de^
