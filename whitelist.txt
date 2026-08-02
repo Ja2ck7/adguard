@@ -27,3 +27,6 @@
 @@||scontent-fra5-2.cdninstagram.com^
 ! ===== DHL =====
 @@||login.dhl.de^
+! ===== Radio Stream =====
+@@||streams.radiobob.de^
+@@||regiocast.streamabc.net^
