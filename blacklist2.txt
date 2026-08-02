@@ -329270,6 +329270,7 @@
 ||eufy-log-ci.anker-in.com^
 ||eufy-log.anker-in.com^
 ||eufymake.com^
+||eu.global.market.xiaomi.com^
 ||eug-vs.xyz^
 ||eug2016.com^
 ||eugamb.cc^
@@ -329433,6 +329434,7 @@
 ||eul.finance^
 ||eul.s.360.cn^
 ||eul.saidacasca.com^
+||eula.samsungiotcloud.com^
 ||eulabad.net^
 ||eulabs.eu^
 ||eulacfoundation.org^
