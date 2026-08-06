@@ -34,3 +34,5 @@
 @@||uiboot.netflix.com^
 @@||nrdp.prod.cloud.netflix.com^
 @@||api-global.netflix.com^
+! ===== Speedtest =====
+@@||api.fast.com^
