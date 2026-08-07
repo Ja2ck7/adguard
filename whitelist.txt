@@ -1,10 +1,18 @@
+! ===== Sites =====
+@@||tibber.com^
+@@||ticketshop.museumfuernaturkunde.berlin^
+@@||geld-fuer-eauto.de^
+@@||mfn2.gomus.de^$important
+@@||www.solarhandel24.de^
+@@||www.yes-zaehlerschrank.de^
 @@||schalke04.de^
 @@||zdfheute.de^
 @@||hotel-speyerer-hof.de^
 ! ===== Lieferando =====
 @@||rest.api.eu-central-1.production.jet-external.com^
 @@||globalmenucdn.eu-central-1.production.jet-external.com^
-@@||tibber.com^
+! ===== Google =====
+@@||findmydevice-pa.googleapis.com^
 @@||www.google.com^
 ! ===== Facebook =====
 @@||graph.facebook.com^
