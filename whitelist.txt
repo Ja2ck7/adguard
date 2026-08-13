@@ -1,4 +1,5 @@
 ! ===== Sites =====
+@@||tailscale.com^
 @@||tibber.com^
 @@||ticketshop.museumfuernaturkunde.berlin^
 @@||geld-fuer-eauto.de^
