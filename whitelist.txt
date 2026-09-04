@@ -9,6 +9,31 @@
 @@||schalke04.de^
 @@||zdfheute.de^
 @@||hotel-speyerer-hof.de^
+@@||com-logojoy-prod1.collector.snplow.net^
+@@||r.stripe.com^
+@@||twebshop.tomas-travel.com^
+@@||pammys.com^
+@@||bolt.sng.link^
+@@||web-production.lime.bike^
+@@||www.trabi-safari.de^
+@@||app.bookingkit.de^
+@@||eu5.bookingkit.de^
+@@||punk-shop.com^
+@@||alphaindustries.cstatic.io^
+@@||sdk.fra-02.braze.eu^
+@@||dust.k8s.cluster-002.p-euc-1.braze.eu^
+@@||appde.shokz.com.cn^
+@@||tcpgateway-sgp-trip.trip.com^
+@@||api.drivers.chrg.cloud^
+@@||app-backend.ewe-go.de^
+@@||www.obelink.de^
+@@||check.torproject.org^
+@@||www.bergfex.de^
+@@||redirect.ppro.com^
+@@||authman.prod.lp-pl.ppro.com^
+@@||secure.kps-payment.de^
+@@||4049616963.airable.io^
+@@||www.ferienhaus.de^
 ! ===== Lieferando =====
 @@||rest.api.eu-central-1.production.jet-external.com^
 @@||globalmenucdn.eu-central-1.production.jet-external.com^
@@ -27,6 +52,8 @@
 @@||sharkninja.de^
 ! ===== Alexa =====
 @@||avs-alexa-*.amazon.com^
+@@||s3.ca-central-1.amazonaws.com^
+@@||s3.eu-west-1.amazonaws.com^
 @@||kinesis.eu-west-1.amazonaws.com^
 @@||alexa.amazon.de^
 @@||bob-dispatch-prod-eu.amazon.com^
