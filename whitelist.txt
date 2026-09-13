@@ -1,4 +1,16 @@
-! ===== Sites =====
+@@||de.trip.com^
+@@||www.deutsche-rentenversicherung.de^
+@@||auswertung.verbraucherzentrale.de^
+@@||app.bryter.io^
+@@||data.verbraucherzentrale.de^
+@@||verbraucherzentrale.bryter.io^
+@@||assets.bryter.io^
+@@||s3.eu-central-1.amazonaws.com^
+@@||www.doctolib.de^
+@@||exceptions.doctolib.de^
+@@||assets.doctolib.de^
+@@||c.strava.com^
+@@||de.hlth.xiaomiwear.com^
 @@||www.trip.com^
 @@||tailscale.com^
 @@||tibber.com^
