@@ -1,3 +1,4 @@
+@@||firebaseappcheck.googleapis.com^
 @@||de.trip.com^
 @@||www.deutsche-rentenversicherung.de^
 @@||auswertung.verbraucherzentrale.de^
