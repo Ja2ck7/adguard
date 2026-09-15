@@ -1,3 +1,5 @@
+@@||www.kroati.de^
+@@||www.ewe-go.de^
 @@||firebaseappcheck.googleapis.com^
 @@||de.trip.com^
 @@||www.deutsche-rentenversicherung.de^
