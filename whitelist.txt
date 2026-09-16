@@ -8,6 +8,7 @@
 @@||assets.pincamp.com^
 @@||computer.production.aws.pincamp.io^
 @@||apps.eurodata.de^
+@@||sso.eurodata.de^
 @@||www.kroati.de^
 @@||www.ewe-go.de^
 @@||firebaseappcheck.googleapis.com^
