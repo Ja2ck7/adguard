@@ -1,3 +1,13 @@
+@@||api.electroverse.com^
+@@||api.chargemap.com^
+@@||firebaseinstallations.googleapis.com^
+@@||arl.assets-v2.apl-alexa.com^
+@@||eu-bob-dispatch-prod-alexa.amazon.de^
+@@||cognito-idp.eu-central-1.amazonaws.com^
+@@||cognito-identity.eu-central-1.amazonaws.com^
+@@||assets.pincamp.com^
+@@||computer.production.aws.pincamp.io^
+@@||apps.eurodata.de^
 @@||www.kroati.de^
 @@||www.ewe-go.de^
 @@||firebaseappcheck.googleapis.com^
