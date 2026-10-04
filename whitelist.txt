@@ -1,5 +1,3 @@
-@@||api.prd.cod.cloud.ooono.dk^
-@@||co-driver-five.prd.odp.cloud.ooono.dk^
 @@||bgtiles.be-mobile.biz^
 @@||tileserver-assets.be-mobile.biz^
 @@||www.autohaus.de^
